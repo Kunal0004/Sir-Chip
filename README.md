@@ -1,7 +1,5 @@
-###  I'am Chip, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
 
-<!--
-**Sir-Chip/Sir-Chip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Hello. I'am Chip, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
 
 Here are some ideas to get you started:
 
@@ -15,5 +13,3 @@ Here are some ideas to get you started:
  ![Chip's github stats](https://github-readme-stats.vercel.app/api?username=Sir-Chip&show_icons=true)
  ![Chip's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Chip)
 
-
--->
