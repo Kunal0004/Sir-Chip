@@ -1,5 +1,5 @@
 
-###  Hello. I'am Chip, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
+###  Hello. I'am Kunal, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
 
 🛠 - Working on **Sync.** and **Solar SB**
 
