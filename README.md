@@ -1,8 +1,6 @@
 
 ###  Hello. I'am Chip, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
 
-Here are some ideas to get you started:
-
 🛠 - Working on **Sync.** and **Solar SB**
 
 💬 - Contact me on Discord; **Chip#0420**
