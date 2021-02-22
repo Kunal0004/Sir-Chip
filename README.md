@@ -9,5 +9,5 @@
     🐦 Twitter - https://twitter.com/ChipWasTaken1 or @ChipWasTaken1.
     
  ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal0004&show_icons=true)
- ![Kunal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal004)
+ ![Kunal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal0004)
 
