@@ -1,7 +1,7 @@
 
-###  Hello. I'am Kunal, I mainly programme in Python - I occasionally code in JavaScript and Lua as well.
+###  Hello. I'am Kunal, I mainly programme in Python - I'am learning Javascript and occasionally in programme in lua.
 
-🛠 - Working on **Sync.** 
+🛠 - Working on: **Sync.** 
 
 💬 - Contact me on Discord; **kunalヅ#0004**
 
