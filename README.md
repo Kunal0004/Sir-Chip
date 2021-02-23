@@ -3,7 +3,7 @@
 
 🛠 - Working on **Sync.** 
 
-💬 - Contact me on Discord; **Chip#0420**
+💬 - Contact me on Discord; **kunalヅ#0004**
 
  ℹ - Social Media;
     🐦 Twitter - https://twitter.com/ChipWasTaken1 or @ChipWasTaken1.
