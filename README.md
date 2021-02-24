@@ -1,5 +1,5 @@
 
-###  Hello. I'am Kunal, I mainly programme in Python - I'am learning Javascript and occasionally in programme in lua.
+###  Hello. I'am Kunal, I mainly programme in Python - I'am learning Javascript and occasionally I programme in lua.
 
 🛠 - Working on: **Sync.** 
 
