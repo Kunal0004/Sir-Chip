@@ -1,7 +1,11 @@
 
-###  Hello. I'am Kunal, I mainly programme in Python - I'am learning Javascript and occasionally I programme in lua.
+###  Hello
 
-🛠 - Working on: **Sync.** 
+Working On:
+
+Language | Project
+------------ | -------------
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Sync
 
 App | My-Name
 ------------ | -------------
