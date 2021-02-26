@@ -3,7 +3,7 @@
 
 🛠 - Working on: **Sync.** 
 
-<img src="https://raw.githubusercontent.com/zredrum/zredrum/master/discord.svg/" width="10" height="10">) - Contact me on Discord; **kunalヅ#0004**
+<img src="https://raw.githubusercontent.com/zredrum/zredrum/master/discord.svg/" width="10"0 height="100"> - Contact me on Discord; **kunalヅ#0004**
 
  ℹ - Social Media;
     🐦 Twitter - https://twitter.com/ChipWasTaken1 or @ChipWasTaken1.
