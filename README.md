@@ -7,6 +7,8 @@ Language | Project
 ------------ | -------------
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Sync
 
+Socials:
+
 App | My-Name
 ------------ | -------------
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) | **kunalヅ#0004**
