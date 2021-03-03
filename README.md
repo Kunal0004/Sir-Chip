@@ -1,5 +1,5 @@
 
-###  Hello, I'm Kunal.
+###  Hello, I'm Kunal, I like making bot's on discord.
 
 Working On:
 
