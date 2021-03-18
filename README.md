@@ -1,5 +1,5 @@
 
-###  Hello, I'm Kunal, I like making bot's on discord.
+###  Hello, I'm Kunal AKA Chip, I like making bot's on discord.
 
 Working On:
 
