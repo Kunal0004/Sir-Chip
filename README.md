@@ -3,9 +3,9 @@
 
 I'm Kunal AKA Chip, a 14 year old Developer
 
- Mark Up: * 🌱 I'm currently learning TypeScript
-          * 📮 You can contact me on my Discord: kunalヅ#0004
-          * ⛏ I'm working on a discord bot called Cielo
+ * 🌱 I'm currently learning TypeScript
+ * 📮 You can contact me on my Discord: kunalヅ#0004
+ * ⛏ I'm working on a discord bot called Cielo
 
 
 Skills/Tools:
