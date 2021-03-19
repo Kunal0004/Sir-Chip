@@ -1,18 +1,12 @@
 
-###  Hello, I'm Kunal AKA Chip, I like making bot's on discord.
+###  Hello :wave:
 
-Working On:
+I'm Kunal AKA Chip, a 14 year old Developer
 
-Language | Project
------------- | -------------
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Sync
+ Mark Up: * 🌱 I'm currently learning TypeScript
+          * 📮 You can contact me on my Discord: kunalヅ#0004
+          * ⛏ I'm working on a discord bot called Cielo
 
-Socials:
-
-App | My-Name
------------- | -------------
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) | **kunalヅ#0004**
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) | https://twitter.com/ChipWasTaken1 or @ChipWasTaken1.
 
 Skills/Tools:
 
@@ -21,9 +15,6 @@ Skills/Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-
 
  ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal0004&show_icons=true)
  ![Kunal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal0004)
