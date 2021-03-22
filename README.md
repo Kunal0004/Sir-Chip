@@ -17,7 +17,7 @@ Skills/Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
- ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal0004&show_icons=true)
- ![Kunal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal0004)
+ ![Chip's github stats](https://github-readme-stats.vercel.app/api?username=Chip0420&show_icons=true)
+ ![Chip's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chip0420)
  
 
