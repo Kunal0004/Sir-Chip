@@ -7,7 +7,7 @@ You can call me by my real name if you like, Kunal
 
  * 🌱 I'm currently learning TypeScript
  * 📮 You can contact me on my Discord: kunalヅ#0004
- * ⛏ I'm working on a discord bot called Cielo
+ * ⛏ I'm working on a discord bot called Cielo and Sync.
 
 
 Skills/Tools:
