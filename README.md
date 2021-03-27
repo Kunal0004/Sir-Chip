@@ -1,9 +1,9 @@
 
 ###  Hello :wave:
 
-I'm Chip, a 14 year old Developer.
+I'm Kunal, a 14 year old Developer.
 
-You can call me by my real name if you like, Kunal
+You can call me Chip.
 
  * 🌱 I'm currently learning TypeScript
  * 📮 You can contact me on my Discord: kunalヅ#0004
