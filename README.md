@@ -19,5 +19,5 @@ Skills/Tools:
 
  ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal0004&show_icons=true&theme=dark)
  ![Kunal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal0004&theme=dark)
- ![Kunal's streak]("https://github-readme-streak-stats.herokuapp.com/?user=annunciate&theme=dark")
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0004&theme=dark" alt="kunal" /></p>
 
