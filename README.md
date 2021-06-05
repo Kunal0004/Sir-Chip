@@ -1,10 +1,11 @@
-
-###  Hello :wave:
-
-I'm Kunal a 14 year old developer!
+<h1 align="center">
+  <strong> 👋 HELLO </strong>
+  <br>
+  I'm Kunal a 14 year old developer!
+</h1>
 
 ```ts
-class Kunal extends WeirdDeveloper {
+class Kunal extends Developer {
   public name(): string {
     return 'Kunal';
   }
