@@ -7,7 +7,7 @@ You can call me Chip.
 
  * 🌱 I'm currently learning TypeScript
  * 📮 You can contact me on my Discord: kunalヅ#0004
- * ⛏ I'm working on a discord bot called Cielo and Sync.
+ * ⛏ I'm working on a discord bot called Sync.
 
 
 Skills/Tools:
