@@ -21,7 +21,7 @@ class Kunal extends WeirdDeveloper {
     return [
       'TYPESCRIPT', 'JAVASCRIPT', 'PYTHON', 'LUA'
       'NODEJS', 'GIT', 'VSCODE', 'GITHUB', 'VIM'
-    ]
+    ];
   }
   
   public aboutMe(): string {
