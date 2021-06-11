@@ -6,33 +6,33 @@
 
 ```ts
 class Kunal extends Developer {
-  public name(): string {
+  public get name(): string {
     return 'Kunal';
   }
   
-  public aliases(): string[] {
+  public get aliases(): string[] {
     return ['Kunal', 'Chip'];
   }
   
-  public toolsIlike(): string[] {
+  public get toolsIlike(): string[] {
     return ['VSCODE', 'NODEJS', 'GIT'];
   }
   
-  public myToolsAndSkills(): string[] {
+  public get myToolsAndSkills(): string[] {
     return [
       'TYPESCRIPT', 'JAVASCRIPT', 'PYTHON', 'LUA'
       'NODEJS', 'GIT', 'VSCODE', 'GITHUB', 'VIM'
     ];
   }
   
-  public aboutMe(): string {
+  public get aboutMe(): string {
     return `
       I like to; Game, Code
       I love the outdoors
     `;
   }
   
-  public coding(): { workingOn: string[], learning: string[] } {
+  public get coding(): { workingOn: string[], learning: string[] } {
     return {
       workingOn: ['Discord Bots', 'DiscordJS Frameworks', 'Sync', 'Other'],
       learning: ['More TypeScript']
